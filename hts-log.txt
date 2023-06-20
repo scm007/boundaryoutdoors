@@ -1,0 +1,12 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Tue, 20 Jun 2023 16:24:30 at https://www.outdoorexperience.us/ +*.outdoorexperience.us/* -* +*
+(httrack https://www.outdoorexperience.us/ -O sex -%v -s0 -r2 +*.outdoorexperience.us/* -* +* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:26:30	Error: 	"Not Found" (404) at link https://www.outdoorexperience.us/"https://www.instagram.com/reel/CsPd2XcgMef/embed/"></iframe>" (from https://www.outdoorexperience.us/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 0 seconds : 38 links scanned, 37 files written (12590566 bytes overall), 31 files updated [4183499 bytes received at 34862 bytes/sec], 9241046 bytes transferred using HTTP compression in 23 files, ratio 24%, 1.4 requests per connection
+(1 errors, 0 warnings, 0 messages)

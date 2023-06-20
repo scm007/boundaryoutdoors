@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.outdoorexperience.us	TRUE	/	FALSE	1999999999	crumb	BbNOeoAQtXIxYjk2MTliY2NlOGY0NjVkOGE3OTYwOTc3ZTJlNTM0
+
